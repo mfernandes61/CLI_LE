@@ -1,7 +1,7 @@
 FROM foodresearch/bppc
 MAINTAINER Mark Fernandes <mark.fernandes@ifr.ac.uk>
 #
-# Docker container for commad-line environment 
+# Docker container for enhanced commad-line environment 
 # e.g.  for Ethan Cermi's Samtools primer course
 #
 USER root 
