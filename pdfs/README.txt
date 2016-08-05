@@ -1,0 +1,1 @@
+Put Course PDF documents in this folder to have them auto-converted to html & png files.
